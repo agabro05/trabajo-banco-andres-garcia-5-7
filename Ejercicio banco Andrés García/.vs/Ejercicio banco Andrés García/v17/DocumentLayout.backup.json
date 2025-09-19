@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\cueta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\cueta.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|c:\\users\\pc-1\\desktop\\ejercicio banco andr\u00E9s garc\u00EDa\\ejercicio banco andr\u00E9s garc\u00EDa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F74C874A-8CCF-40E5-8464-5323E9620AF8}|Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa.vbproj|solutionrelative:ejercicio banco andr\u00E9s garc\u00EDa\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T23:18:57.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T14:43:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T14:35:51.104Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cueta.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cueta.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cueta.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cueta.vb",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cueta.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T14:36:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cliente.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cliente.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cliente.vb",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Cliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T23:28:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "RelativeDocumentMoniker": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio banco Andr\u00E9s Garc\u00EDa\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-17T01:02:22.447Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

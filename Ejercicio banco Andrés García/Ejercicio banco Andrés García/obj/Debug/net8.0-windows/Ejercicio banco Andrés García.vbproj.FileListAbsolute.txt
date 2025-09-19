@@ -1,0 +1,50 @@
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.exe
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.deps.json
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.runtimeconfig.json
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio_banco_Andrés_García.Form1.resources
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.GenerateResource.cache
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfoInputs.cache
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfo.vb
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.CoreCompileInputs.cache
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\refint\Ejercicio banco Andrés García.dll
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.genruntimeconfig.cache
+C:\Users\GAB1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\ref\Ejercicio banco Andrés García.dll
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio_banco_Andrés_García.Form1.resources
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfo.vb
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\refint\Ejercicio banco Andrés García.dll
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.exe
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.deps.json
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.runtimeconfig.json
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\ref\Ejercicio banco Andrés García.dll
+C:\Users\Usuario\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio_banco_Andrés_García.Form2.resources
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.exe
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.deps.json
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.runtimeconfig.json
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\bin\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio_banco_Andrés_García.Form1.resources
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio_banco_Andrés_García.Form2.resources
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.AssemblyInfo.vb
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.vbproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.dll
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\refint\Ejercicio banco Andrés García.dll
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.pdb
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\Ejercicio banco Andrés García.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Ejercicio banco Andrés García\Ejercicio banco Andrés García\obj\Debug\net8.0-windows\ref\Ejercicio banco Andrés García.dll
